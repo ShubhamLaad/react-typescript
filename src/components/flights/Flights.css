@@ -1,0 +1,27 @@
+.flight {
+  margin-bottom: 10px;
+  background:white;
+}
+.semiBold {
+  font-weight: bold;
+}
+.flight span {
+  display: block;
+}
+.flight .amountTitle {
+  background: yellow;
+  color: white;
+  padding: 0 5px;
+  line-height: 20px;
+  border-top-left-radius: 4px;
+  border-bottom-left-radius: 4px;
+}
+.flight .cheapest {
+  background: green;
+}
+.flight .normal {
+  background: yellow;
+}
+.flight .highest {
+  background: red;
+}
